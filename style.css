@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    background:#fffab3 ;
+}
+header {
+    background-color: rgb(125, 51, 223);
+    padding: 18px;
+}
+    header a {
+    color: black;
+    background-color:blue ;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 30px;
+    }
+    .hiphop{
+    background-color: #2adede;
+    }
+  .cont {
+background-color: #2adede;
+   } 
+  header img {
+    height: 180px;
+    width: 300px;
+
+   }
+   h1 {
+    background-color: rgb(74, 255, 180);
+    color: #748aec;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+    margin: 50px;
+     border-radius: 15px;
+}
+h2{
+ background-color: rgb(255, 152, 84);
+    color: #000000;
+   text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin: 40px;
+     border-radius: 5px;
+}
+p{
+  background-color:rgb(156, 233, 104);
+}
+.hp{
+height: 300px;
+    width: 450px;
+    
+     border-left: 6px dashed rgb(72, 63, 205);
+     border-right: 6px dashed rgb(72, 63, 205);
+     border-left: 10px dotted rgb(72, 63, 205);
+     border-right: 10px dotted rgb(72, 63, 205);
+
+}
+.bl{
+  height: 300px;
+    width: 450px;
+    
+     border-left: 6px dashed rgb(205, 63, 106);
+     border-right: 6px dashed rgb(205, 63, 106);
+     border-left: 10px dotted rgb(205, 63, 106);
+     border-right: 10px dotted rgb(205, 63, 106);
+
+}
+.con{
+  height: 250px;
+    width: 350px;
+    
+     border-left: 6px dashed rgb(62, 190, 58);
+     border-right: 6px dashed rgb(62, 190, 58);
+     border-left: 10px dotted rgb(62, 190, 58);
+     border-right: 10px dotted rgb(62, 190, 58);
+
+}
+.kp{
+  height: 300px;
+    width: 450px;
+    
+     border-left: 6px dashed rgb(253, 207, 0);
+     border-right: 6px dashed rgb(253, 207, 0);
+     border-left: 10px dotted rgb(253, 207, 0);
+     border-right: 10px dotted rgb(253, 207, 0);
+
+}
